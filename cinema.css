@@ -70,7 +70,7 @@
 
 .work-info p{
     margin:18px 0 0;
-    color:var(--muted);
+    color:#9d9d9d;
     font-size:1rem;
     line-height:1.8;
     max-width:720px;
@@ -78,7 +78,7 @@
 
 .work-description{
     margin-top:42px;
-    color:var(--text);
+    color:#f5f5f5;
     max-width:720px;
     font-size:1.05rem;
     line-height:1.9;
