@@ -129,8 +129,9 @@ margin: 60px 0 0;
   max-width: 1180px;
   padding: 0 clamp(20px, 5vw, 72px);
 }
-.featured-meta h2 {
-  font-size: clamp(3rem, 8vw, 10rem);
+.featured-meta h2{
+    font-size: clamp(2.6rem, 6vw, 5.2rem);
+    line-height: 0.95;
 }
 
 .featured-meta p:last-child {
