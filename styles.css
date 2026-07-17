@@ -104,7 +104,7 @@ p {
 h1 {
   max-width: 1120px;
   margin: 0;
-  font-size: clamp(3.6rem, 10vw, 11rem);
+  font-size: clamp(3.2rem, 8vw, 8.5rem);
   font-weight: 500;
   line-height: 0.88;
   letter-spacing: 0;
