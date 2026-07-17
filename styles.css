@@ -130,8 +130,10 @@ margin: 60px 0 0;
   padding: 0 clamp(20px, 5vw, 72px);
 }
 .featured-meta h2{
-    font-size: clamp(2.6rem, 6vw, 5.2rem);
+    font-size: clamp(2.8rem, 6vw, 5rem);
     line-height: 0.95;
+    margin: 0;
+    max-width: 1000px;
 }
 
 .featured-meta p:last-child {
