@@ -1,7 +1,9 @@
 /* =========================================
    CINEMA ROOM
    ========================================= */
-
+body{
+    background:red !important;
+}
 .cinema-body{
     background:#050505;
     color:var(--text);
