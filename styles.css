@@ -157,14 +157,19 @@ margin: 60px 0 0;
   gap: 24px;
 }
 
-.work-meta {
-  display: grid;
-  grid-template-columns: 48px minmax(0, 1fr);
-  gap: 20px;
-  align-items: baseline;
-  padding: 0 clamp(20px, 5vw, 72px);
+.work-meta{
+    padding:0 clamp(20px,5vw,72px);
+    margin-bottom:24px;
+}
+.work-preview{
+    max-width:1100px;
+    margin:0 auto 80px;
 }
 
+.work-preview img{
+    width:100%;
+    display:block;
+}
 .work-meta p {
   margin: 0;
   color: var(--muted);
