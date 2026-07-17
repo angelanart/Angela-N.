@@ -18,8 +18,8 @@
     padding:42px 0 24px;
 }
 
-.back-link{
-    color:var(--muted);
+ .back-link{
+    color:#9d9d9d;
     text-decoration:none;
     text-transform:uppercase;
     letter-spacing:.14em;
@@ -28,9 +28,8 @@
 }
 
 .back-link:hover{
-    color:var(--text);
+    color:#ffffff;
 }
-
 .cinema-container{
     width:100%;
     display:flex;
